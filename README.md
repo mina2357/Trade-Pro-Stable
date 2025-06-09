@@ -7,22 +7,33 @@
 
 Get the latest full stable release:  
 👉 [Download Trade-Pro v1.0.3](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.3/Trade-Pro-v1.0.3.zip)
-
 <p align="center">
   <a href="https://flutter.dev">
-    <img src="https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square" alt="Platform" />
+    <img src="https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square" />
+  </a>
+  <a href="https://dart.dev">
+    <img src="https://img.shields.io/badge/Language-Dart-blue?logo=dart&style=flat-square" />
   </a>
   <a href="https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.3">
-    <img src="https://img.shields.io/badge/Version-1.0.3-green?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/Version-1.0.3-blue?style=flat-square" />
   </a>
   <a href="https://github.com/mina2357/Trade-Pro-Stable/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-Protected-red?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/badge/License-Protected-blue?style=flat-square" />
   </a>
   <a href="https://github.com/mina2357">
-    <img src="https://img.shields.io/badge/Maintainer-Mina-blueviolet?style=flat-square" alt="Maintainer" />
+    <img src="https://img.shields.io/badge/Maintainer-Mina-blueviolet?style=flat-square" />
   </a>
-  <a href="#readme">
-    <img src="https://img.shields.io/badge/README-Available-brightgreen?style=flat-square" alt="README" />
+  <a href="https://github.com/mina2357/Trade-Pro-Stable/blob/main/README.md">
+    <img src="https://img.shields.io/badge/README-Available-success?style=flat-square" />
+  </a>
+  <a href="https://github.com/mina2357/Trade-Pro-Stable/actions">
+    <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square&logo=githubactions" />
+  </a>
+  <a href="https://github.com/mina2357/Trade-Pro-Stable/security/policy">
+    <img src="https://img.shields.io/badge/Security-Active-orange?style=flat-square&logo=shield" />
+  </a>
+  <a href="https://github.com/mina2357/Trade-Pro-Stable/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Last%20Updated-June%202025-orange?style=flat-square" />
   </a>
 </p>
 
