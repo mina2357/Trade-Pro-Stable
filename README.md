@@ -8,16 +8,23 @@
 Get the latest full stable release:  
 👉 [Download Trade-Pro v1.0.3](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.3/Trade-Pro-v1.0.3.zip)
 
-![Platform](https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-Protected-blue?style=flat-square)
-![Maintainer](https://img.shields.io/badge/Maintainer-Mina-blueviolet?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202025-orange?style=flat-square)
-![README](https://img.shields.io/badge/README-Available-success?style=flat-square)
-
-![Flutter](https://img.shields.io/badge/Flutter-3.0%2B-blue?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Null--safety-blue?logo=dart&logoColor=white)
-![Status](https://img.shields.io/badge/Version-1.0.0-success?style=flat-square)
+<p align="center">
+  <a href="https://flutter.dev">
+    <img src="https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square" alt="Platform" />
+  </a>
+  <a href="https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.3">
+    <img src="https://img.shields.io/badge/Version-1.0.3-green?style=flat-square" alt="Version" />
+  </a>
+  <a href="https://github.com/mina2357/Trade-Pro-Stable/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-Protected-red?style=flat-square" alt="License" />
+  </a>
+  <a href="https://github.com/mina2357">
+    <img src="https://img.shields.io/badge/Maintainer-Mina-blueviolet?style=flat-square" alt="Maintainer" />
+  </a>
+  <a href="#readme">
+    <img src="https://img.shields.io/badge/README-Available-brightgreen?style=flat-square" alt="README" />
+  </a>
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mina2357)
 > **DreamFlow** is a modern Flutter application delivering an elegant, animated, and data-rich trading experience with smooth UI, real-time graphs, and reactive architecture.
