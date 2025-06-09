@@ -1,5 +1,7 @@
 # DreamFlow
-📦 Download the latest full release: [Trade-Pro-Stable.zip](https://github.com/mina2357/Trade-Pro-Stable/releases/latest)
+📦 Download version 1.0.0 (initial release): [Trade-Pro-Stable v1.0.0](https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.0)
+
+📥 Download the latest full release (v1.0.1): [Trade-Pro-Stable v1.0.1](https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.1)
 
 ![Platform](https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)
