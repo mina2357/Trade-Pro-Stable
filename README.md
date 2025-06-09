@@ -4,6 +4,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Null--safety-blue?logo=dart&logoColor=white)
 ![Status](https://img.shields.io/badge/Version-1.0.0-success?style=flat-square)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mina2357)
 > **DreamFlow** is a modern Flutter application delivering an elegant, animated, and data-rich trading experience with smooth UI, real-time graphs, and reactive architecture.
 
 ---
