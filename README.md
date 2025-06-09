@@ -1,13 +1,12 @@
 # DreamFlow
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square" />
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/License-Protected-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Maintainer-Mina-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Last%20Updated-June%202025-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/README-Available-success?style=flat-square" />
-</p>
+![Platform](https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-Protected-blue?style=flat-square)
+![Maintainer](https://img.shields.io/badge/Maintainer-Mina-blueviolet?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202025-orange?style=flat-square)
+![README](https://img.shields.io/badge/README-Available-success?style=flat-square)
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.0%2B-blue?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-Null--safety-blue?logo=dart&logoColor=white)
 ![Status](https://img.shields.io/badge/Version-1.0.0-success?style=flat-square)
