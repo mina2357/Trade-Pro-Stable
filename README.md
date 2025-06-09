@@ -3,6 +3,11 @@
 
 📥 Download the latest full release (v1.0.1): [Trade-Pro-Stable v1.0.1](https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.1)
 
+## 📦 Download
+
+Get the latest full stable release:  
+👉 [Download Trade-Pro v1.0.3](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.3/Trade-Pro-v1.0.3.zip)
+
 ![Platform](https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-Protected-blue?style=flat-square)
