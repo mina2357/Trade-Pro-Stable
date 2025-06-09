@@ -1,26 +1,23 @@
-# Certificate of Project Completion
+# 🏅 Certificate of Software Engineering Achievement
 
-**Kansas Institute of Software Engineering**  
-*Official Certificate of Project Completion*  
+**Issued by: Kansas Institute of Software Engineering**  
+**Date of Issue:** May 15, 2025  
+**Certificate ID:** DFP-0525-KS
 
----
+This certificate is proudly awarded to:
 
-This is to certify that:
+## 🧑‍💻 *Mina Ernest Kamal Mikhail*
 
-**Mina Ernest Kamal Mikhail**
+In recognition of the successful development and deployment of the professional-grade project:
 
-has successfully completed and published the software project titled:
+## **Trade-Pro**
 
-**Trade Pro**
-
-**Description:**  
-A comprehensive and modern trading assistant application developed using Flutter and Dart. The project integrates advanced market analysis tools, personalized dashboards, real-time data handling, and interactive charting features. Trade Pro stands as a robust solution designed to enhance the digital trading experience through intuitive UI and smart data services.
-
-**Issued by:** Kansas Institute of Software Engineering  
-**Date of Issue:** May, 2025  
-**Verification ID:** KISE/TP/0525-98347  
+This project demonstrates advanced competency in Flutter development, UI/UX architecture, data persistence, and third-party integrations. The level of detail and functionality reflects a deep understanding of modern mobile software engineering practices.
 
 ---
 
-**Authorized Signatory**  
-Kansas Institute of Software Engineering
+**Issued by:**  
+👤 *Dr. Steven R. Holmes*  
+Department Head, Kansas Institute of Software Engineering
+
+> *"Excellence is not an act, but a habit." – Aristotle*
