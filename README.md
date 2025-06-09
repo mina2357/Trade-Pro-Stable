@@ -37,6 +37,14 @@
 This project has been officially certified.  
 📄 [View full certificate](./CERTIFICATE.md)
 
+---
+## 📜 License
+
+This project is protected under a **custom proprietary license**.  
+Unauthorized use is prohibited.  
+To use, modify, or share this project, you must first get permission from the author.  
+If granted, you must give proper credit to **Mina Ernest Kamal Mikhail** and link to this repository.
+
 ## 📁 Project Structure
 
 ```bash
