@@ -32,6 +32,10 @@
 | 🌐 **HTTP & UUID** | API + identifiers |
 
 ---
+## 🎓 Certification
+
+This project has been officially certified.  
+📄 [View full certificate](./CERTIFICATE.md)
 
 ## 📁 Project Structure
 
@@ -45,3 +49,4 @@ lib/
 ├── trading_service.dart
 ├── trading_widgets.dart
 ├── theme.dart
+
