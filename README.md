@@ -15,36 +15,15 @@
 </p>
 Get the latest full stable release:  
 👉 [Download Trade-Pro v1.0.3](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.3/Trade-Pro-v1.0.3.zip)
-<p align="center">
-  <a href="https://flutter.dev">
-    <img src="https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter&style=flat-square" />
-  </a>
-  <a href="https://dart.dev">
-    <img src="https://img.shields.io/badge/Language-Dart-blue?logo=dart&style=flat-square" />
-  </a>
-  <a href="https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.3">
-    <img src="https://img.shields.io/badge/Version-1.0.3-blue?style=flat-square" />
-  </a>
-  <a href="https://github.com/mina2357/Trade-Pro-Stable/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-Protected-blue?style=flat-square" />
-  </a>
-  <a href="https://github.com/mina2357">
-    <img src="https://img.shields.io/badge/Maintainer-Mina-blueviolet?style=flat-square" />
-  </a>
-  <a href="https://github.com/mina2357/Trade-Pro-Stable/blob/main/README.md">
-    <img src="https://img.shields.io/badge/README-Available-success?style=flat-square" />
-  </a>
-  <a href="https://github.com/mina2357/Trade-Pro-Stable/actions">
-    <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square&logo=githubactions" />
-  </a>
-  <a href="https://github.com/mina2357/Trade-Pro-Stable/security/policy">
-    <img src="https://img.shields.io/badge/Security-Active-orange?style=flat-square&logo=shield" />
-  </a>
-  <a href="https://github.com/mina2357/Trade-Pro-Stable/graphs/commit-activity">
-    <img src="https://img.shields.io/badge/Last%20Updated-June%202025-orange?style=flat-square" />
-  </a>
-</p>
-
+[![Platform](https://img.shields.io/badge/Platform-Flutter-blue?logo=flutter)](https://flutter.dev)
+[![Language](https://img.shields.io/badge/Language-Dart-blue?logo=dart)](https://dart.dev)
+[![Version](https://img.shields.io/github/v/release/mina2357/Trade-Pro-Stable?label=Version&color=orange)](https://github.com/mina2357/Trade-Pro-Stable/releases)
+[![License](https://img.shields.io/github/license/mina2357/Trade-Pro-Stable?color=brightgreen)](https://github.com/mina2357/Trade-Pro-Stable/blob/main/LICENSE)
+[![Maintainer](https://img.shields.io/badge/Maintainer-mina2357-lightgrey?logo=github)](https://github.com/mina2357)
+[![Last Commit](https://img.shields.io/github/last-commit/mina2357/Trade-Pro-Stable?color=informational)](https://github.com/mina2357/Trade-Pro-Stable/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/mina2357/Trade-Pro-Stable?color=critical)](https://github.com/mina2357/Trade-Pro-Stable/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/mina2357/Trade-Pro-Stable?color=blueviolet)](https://github.com/mina2357/Trade-Pro-Stable/pulls)
+[![Stars](https://img.shields.io/github/stars/mina2357/Trade-Pro-Stable?style=social)](https://github.com/mina2357/Trade-Pro-Stable/stargazers)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mina2357)
 > **DreamFlow** is a modern Flutter application delivering an elegant, animated, and data-rich trading experience with smooth UI, real-time graphs, and reactive architecture.
 
