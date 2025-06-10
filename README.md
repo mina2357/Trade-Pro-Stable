@@ -31,11 +31,11 @@
 📦 Download version 1.0.0 (initial release): [Trade-Pro-Stable v1.0.0](https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.0)
 
 📥 Download the latest full release (v1.0.1): [Trade-Pro-Stable v1.0.1](https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.1)
-
-## 📦 Download
 <p align="center">
   <img src="https://raw.githubusercontent.com/mina2357/mina2357/main/mina-dave-logo.svg?v=2" width="120" alt="mina logo"/>
 </p>
+
+## 📦 Download
 ## 📽️ Project Demo
 ![Trade Pro UI Preview](proo_high_quality.gif)
 ## 📸 Preview
