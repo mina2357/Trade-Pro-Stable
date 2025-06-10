@@ -35,7 +35,12 @@
 ## 📦 Download
 ## 📽️ Project Demo
 ![Trade Pro UI Preview](proo_high_quality.gif)
-## 🔍 Project Previews
+## 📸 Preview
+
+<p align="center">
+  <img src="pro.jpg" alt="App Preview 1" width="400"/>
+  <img src="pro3.jpg" alt="App Preview 2" width="400"/>
+</p>
 
 ---
 
