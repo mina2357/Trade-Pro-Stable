@@ -4,6 +4,8 @@
 📥 Download the latest full release (v1.0.1): [Trade-Pro-Stable v1.0.1](https://github.com/mina2357/Trade-Pro-Stable/releases/tag/v1.0.1)
 
 ## 📦 Download
+## 📽️ Project Demo
+![Trade Pro UI Preview](proo_high_quality.gif)
 ## 🔍 Project Previews
 
 <p align="center">
